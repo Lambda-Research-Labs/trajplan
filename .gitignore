@@ -1,0 +1,10 @@
+*:Zone.Identifier
+.codex
+*.ndjson
+__pycache__
+checkpoints
+Data
+outputs
+.DS_Store
+claude_session.txt
+Data.zip
